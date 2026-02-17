@@ -9,3 +9,8 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+
+summary.md
+final_report.md
+content_harvest.md
